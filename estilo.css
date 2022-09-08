@@ -60,13 +60,13 @@ body{
 }
 
 .card .content h4 {
-    font-size: 18px;
+    font-size: 22px;
     color: #1a1919;
     margin-bottom: 5px;
 }
 
 .card .content h6 {
-    font-size: 13px;
+    font-size: 16px;
     color: #5e2066;
 }
 
