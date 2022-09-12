@@ -16,9 +16,11 @@ body{
 .card {
     position: relative;
     width: 250px;
-    height: 350px;
+    height: 450px;
     border-radius: 10px;
     box-shadow: 2px 3px 5px rgba(73, 69, 52, 0.4);
+    margin: 60px;
+    
 }
 
 .card .content {
@@ -76,6 +78,11 @@ body{
     margin-top: 10px;
 }
 
+.card .content ul{
+    font-size: 13px;
+    color: #1a161f;
+    margin-top: 10px;
+}
 .card .links {
     position: absolute;
     z-index: 90;
