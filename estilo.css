@@ -73,9 +73,10 @@ body{
 }
 
 .card .content p {
-    font-size: 13px;
+    font-size: 15px;
     color: #1a161f;
     margin-top: 10px;
+    padding: 10px;
 }
 
 .card .content ul{
