@@ -55,7 +55,7 @@ body{
     position: absolute;
     width: 350px;
     height: 200px;
-    background: linear-gradient(to right, #5e2066, #b332c7);
+    background: linear-gradient(to right, #0066A6, #008DE6);
     transform: rotate(-35deg);
     top: -50px;
     left: -100px;
